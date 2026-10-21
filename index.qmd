@@ -9,7 +9,6 @@ format:
   revealjs:
     scrollable: true
     css: custom.css
-    theme: simple
     slide-number: true
     incremental: false
     transition: slide
