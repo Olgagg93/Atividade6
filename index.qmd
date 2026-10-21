@@ -321,7 +321,7 @@ as_gt() %>%
         (variable == "Isolamento" & label == "Sim") |
         (variable == "Renda_familiar" & label == "até R$ 1254,00") |
         (variable == "Dificuldades_financeiras" & label == "Sim") |
-        (variable == "Ansiedade" & label == "Não") |
+        (variable == "Ansiedade" & label == "Sim") |
         (variable == "Depressao" & label == "Sim") |
         (variable == "Enxaqueca" & label == "Sim")
       )
